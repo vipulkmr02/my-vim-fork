@@ -1,0 +1,1 @@
+./configure --enable-multibyte --enable-python3interp --enable-cscope --enable-terminal
